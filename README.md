@@ -1,5 +1,3 @@
-# Lib_spb
-```
 # Cadence Allegro Library
 Symbols and Footprints for Cadence Allegro
 --------------------------------------------------------------------------------
@@ -25,4 +23,3 @@ Contribution provided to us for any purpose without fee.
 -------------------------------------------------------------------------------
 
 This library contains the symbols and footprints for Cadence Allegro.
-```
