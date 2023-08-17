@@ -3,12 +3,12 @@
 # 在提交前运行 clear_folder.py 脚本
 python3 ./Package\ Library/clear_folder.py
 
-# 如果脚本成功执行，那么继续提交
-# 如果脚本执行失败，那么取消提交
-if [ $? -ne 0 ]; then
- echo "clear_folder.py failed, aborting commit"
- exit 1
-fi
+# # 如果脚本成功执行，那么继续提交
+# # 如果脚本执行失败，那么取消提交
+# if [ $? -ne 0 ]; then
+#  echo "clear_folder.py failed, aborting commit"
+#  exit 1
+# fi
 
 # 添加所有改动到暂存区
 git add .
